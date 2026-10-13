@@ -1,0 +1,9 @@
+   .env
+   !.env.example
+   commit-log.txt
+   push-log.txt
+   *.db
+   __pycache__/
+   .venv/
+   .pytest_cache/
+   .ruff_cache/
